@@ -1,2 +1,2 @@
-protobuf==3.9.2
+protobuf==4.25.8
 python>=3.7.3
